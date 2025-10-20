@@ -180,3 +180,4 @@ my_results/
 asos_public_evaluation/
 abag_public_evaluation/
 hackathon_data.tar.gz
+.github/workflows/ci.yml
